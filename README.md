@@ -67,3 +67,10 @@ Through the development of the "Stealth Game Project," developers gained invalua
 - [Open Game Art](https://opengameart.org/): A valuable resource for acquiring free game assets, including sprites, textures, and sound effects.
 - [Kenney Assets](https://kenney.nl/assets): An extensive collection of high-quality game assets, ranging from character sprites to background music, suitable for various game genres.
 - [GameDev Market](https://www.gamedevmarket.net/): A marketplace offering a wide selection of game assets, tools, and resources to support game development endeavors.
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+
